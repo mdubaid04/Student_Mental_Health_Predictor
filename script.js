@@ -2,7 +2,7 @@
   "use strict";
   // url = "https://mansik-santulan-score.onrender.com";
 
-  const API_BASE = "http://127.0.0.1:2200";
+  const API_BASE = "https://student-mental-health-predictor-21ox.onrender.com";
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
   const resetBtn = document.getElementById("reset-btn");
